@@ -1,4 +1,4 @@
-package midterm1;
+package designpatterns.composite;
 
 import java.util.*;
 

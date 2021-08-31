@@ -1,4 +1,4 @@
-package midterm1;
+package designpatterns.strategy;
 
 import java.util.Scanner;
 
